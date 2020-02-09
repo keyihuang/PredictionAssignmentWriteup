@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581292187500.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4D8F74FB",
+    "lastKnownWriteTime" : 1581292255,
+    "last_content_update" : 1581292255879,
+    "path" : "~/Desktop/Robert/datasciencecoursera/PredictionAssignmentWriteup/Prediction-Assignment-Writeup.Rmd",
+    "project_path" : "Prediction-Assignment-Writeup.Rmd",
+    "properties" : {
+        "cursorPosition" : "61,0",
+        "scrollLine" : "48"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
